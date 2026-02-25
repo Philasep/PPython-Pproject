@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Phila September
+# 👋Hi, I'm Phila September.
 
 🎓 Bachelor of Arts in Organisational Psychology and Media Studies Graduate transitioning into Data Science.  
 📊 Postgraduate Diploma in Data Science candidate.  
@@ -12,7 +12,8 @@
 - Calculator Applications  
 - Pythagoras Calculator  
 - Square Root Checker  
-- Weather Application  
+- Weather Application
+- Right Angle  
 - PDF Summarizer (In Progress)
 
 ---
