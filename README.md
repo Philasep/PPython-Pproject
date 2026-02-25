@@ -19,10 +19,10 @@
 
 ## 💼 Leadership & Involvement
 
-- Member of the Wits SAIBPP  
-- Ambassador for the Wits Graduate Recruitment Programme  
+- Member of the Wits **SAIBPP**.  
+- Ambassador for the **Wits Graduate Recruitment Programme**. 
 - Working at the Wits Education Library.
-- Peer Educator  
+- Wits Peer Educator.  
 
 These roles have strengthened my leadership, communication, teamwork, and professional development skills within an academic environment.
 
@@ -31,13 +31,15 @@ These roles have strengthened my leadership, communication, teamwork, and profes
 ## 🛠 Technical Skills
 
 - Python Programming  
-- Data Analysis (Excel)  
+- Data Analysis (Excel)
+- HTML  
 - Microsoft Access  
 - Statistics (Business & Mathematical)  
 - Git & GitHub  
 - Problem Solving  
 - Logical Thinking  
-- Foundational AI Concepts  
+- Foundational AI Concepts
+- Linux basics 
 
 ---
 
